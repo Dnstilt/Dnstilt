@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dnstilt
+- 👋 Hi, I’m @Denistakenaka.
 - 👀 I’m interested in networking, programing skills, learnig and helping if it's possible! 
 - 🌱 I’m currently learning Phyton, SQL and Power BI 
 - 💞️ I’m looking to collaborate on programming. 
