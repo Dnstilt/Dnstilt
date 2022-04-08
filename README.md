@@ -2,7 +2,7 @@
 - 👀 I’m interested in networking, programing skills, learnig and helping if it's possible! 
 - 🌱 I’m currently learning Phyton, SQL and Power BI 
 - 💞️ I’m looking to collaborate on programming. 
-- 📫 How to reach me: denistakenaka@hotmail.com 
+- 📫 How to reach me: denistakenaka@gmail.com 
 
 <!---
 Dnstilt/Dnstilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
