@@ -1,4 +1,4 @@
-- 👋 Hello world!! I’m @Denistakenaka.
+- 👋 Hello world!! I’m @denistakenaka.
 - 👀 I’m interested in networking, programing skills, learnig and helping if it's possible! 
 - 🌱 I’m currently learning HTML, CSS3, Java, Phyton, SQL, Power BI 
 - 💞️ I’m looking to collaborate on programming. 
