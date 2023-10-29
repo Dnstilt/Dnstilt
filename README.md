@@ -1,5 +1,5 @@
 - 👋 Hello world!! I’m @denistakenaka.
 - 👀 I’m interested in networking, programing skills, learnig and helping if it's possible! 
-- 🌱 I’m currently learning HTML, CSS3, Java, Phyton, SQL, Power BI 
+- 🌱 I’m currently learning Phyton, SQL, Java. 
 - 💞️ I’m looking to collaborate on programming. 
 - 📫 How to reach me: denistakenaka@gmail.com 
