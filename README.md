@@ -1,5 +1,5 @@
-- 👋 Hello world!! I’m @denistakenaka.
+- 👋 Hello from Palhoça!! I’m @denistakenaka.
 - 👀 I’m interested in networking, programing skills, learnig and helping if it's possible! 
-- 🌱 I’m currently learning Phyton, SQL, Java. 
+- 🌱 I’m currently learning Phyton, SQL, Java, Django. 
 - 💞️ I’m looking to collaborate on programming. 
 - 📫 How to reach me: denistakenaka@gmail.com 
