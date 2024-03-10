@@ -4,4 +4,4 @@
 <h2>Reach me here: denistakenaka@gmail.com.</h2>
 
 
-![Design sem nome](https://github.com/Dnstilt/Dnstilt/assets/99708461/19c4a255-d35a-4d02-bb21-b9512d1a08f2)
+
