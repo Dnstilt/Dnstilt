@@ -40,7 +40,7 @@
  <img align="right" width="350" src="/assets/chair.gif" alt="Coding gif" />
   
  ✌️ &emsp; Really enjoing to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Love to write code and learning new features<br/><br/>
  ❤️ &emsp; Looking to colaborate in projects.<br/><br/>
  📧 &emsp; Reach me anytime here: denistakenaka@gmail.com<br/><br/>
 
