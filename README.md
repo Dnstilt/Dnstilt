@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Denis+Takenaka">「 Google Me 」</a>
     <br>
-    「 I am a developer in Phyton, SQL, Java, Django, HTML, CSS and C#. from <b>Palhoça, Brasil</b> 」
+    「 I am a developer in Phyton, SQL, Java, Django, HTML, CSS and Javascript. from <b>Palhoça, Brasil</b> 」
     <br>
     <br>
   </samp>
