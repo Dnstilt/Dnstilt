@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Denis+Takenaka">「 Google Me 」</a>
     <br>
-    「 I am a developer in Phyton, SQL, Java, Django, HTML, CSS and Javascript. from <b>Palhoça, Brasil</b> 」
+    「 I am a developer in Phyton, SQL, Java, Django,React, HTML, CSS and Javascript. from <b>Palhoça, Brasil</b> 」
     <br>
     <br>
   </samp>
@@ -53,7 +53,7 @@
 ## Use To Code
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,html,css,js,java,kotlin,py,bootstrap,django,spring,mysql,postgres,idea,pycharm,webstorm,eclipse,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,html,css,js,java,kotlin,py,bootstrap,react-dark,prisma,django,spring,mysql,postgres,idea,pycharm,webstorm,eclipse,vscode,figma" />
   </a>
 </p>
 
