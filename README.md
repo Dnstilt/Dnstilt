@@ -53,7 +53,7 @@
 ## Use To Code
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,html,css,js,java,kotlin,py,bootstrap,react,prisma,nodejs,django,spring,mysql,postgres,idea,pycharm,webstorm,eclipse,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,html,css,js,java,py,bootstrap,react,prisma,nodejs,django,mysql,postgres,idea,pycharm,eclipse,vscode,figma" />
   </a>
 </p>
 
