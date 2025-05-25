@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Denis+Takenaka">「 Google Me 」</a>
     <br>
-    「 I am a developer in Java,React, Nextjs, HTML, CSS, Javascript, typescript, PHP and Laravel. from <b>São José dos Campos, SP, Brasil</b> 」
+    「 I am a developer in React, Nextjs, HTML, CSS, Javascript, PHP and Laravel. from <b>São José dos Campos, SP, Brasil</b> 」
     <br>
     <br>
   </samp>
@@ -39,8 +39,8 @@
 <p>
  <img align="right" width="350" src="/assets/chair.gif" alt="Coding gif" />
   
- ✌️ &emsp; Really enjoying coddling and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to write code and learning new features<br/><br/>
+ ✌️ &emsp; Really enjoying coding! <br/><br/>
+ ❤️ &emsp; Love to write code and learning new features every day! <br/><br/>
  ❤️ &emsp; Looking to colaborate in projects.<br/><br/>
  📧 &emsp; Reach me anytime here: denistakenaka@gmail.com<br/><br/>
 
