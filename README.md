@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Denis+Takenaka">「 Google Me 」</a>
     <br>
-    「 I am a developer in React, Nextjs, HTML, CSS, Javascript, PHP and Laravel. from <b>São José dos Campos, SP, Brasil</b> 」
+    「 I am a developer in React, Nextjs, HTML, CSS, Javascript, PHP and laravel. from <b>São José dos Campos, SP, Brasil</b> 」
     <br>
     <br>
   </samp>
@@ -53,7 +53,7 @@
 ## Use To Code
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,html,css,js,typescript,PHP,Laravel,bootstrap,react,mysql,postgres,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,html,css,js,typescript,php,laravel,bootstrap,react,mysql,postgres,vscode,figma" />
   </a>
 </p>
 
